@@ -4,5 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehxalves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/ ?username=alehxalves&repo=github-readme-stats )](https://github.com/anuraghazra/github- readme-stats)
+  <a href="https://github.com/Alehxalves/NodeJs">
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alehxalves&repo=github-readme-stats )](https://github.com/Alehxalves/NodeJs)
 </div>
