@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehxalves&layout=compact&langs_count=7&theme=dark"/>
    <div>
     <a href="https://github.com/Alehxalves/NodeJs">
-    <img height ="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=alehxalves&repo=NodeJs"</>
+    <img height ="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=alehxalves&repo=NodeJs&theme=dark"</>
       </div>
 </div>
 
